@@ -1,0 +1,6 @@
+imageio
+opencv-python
+pillow
+pyzbar
+click
+qrcode
